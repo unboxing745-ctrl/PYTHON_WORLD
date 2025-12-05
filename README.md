@@ -1,46 +1,45 @@
 <div align="center">
 
-# 🐍🌍 **PYTHON_WORLD**
-### *Where Code Evolves. Where the Snake Grows.*
+# 🐍✨ P Y T H O N  W O R L D ✨🐍  
+### **An evolving world of Python code**
 
-<img src="https://raw.githubusercontent.com/mayankchaudhary26/profile-readme-generator/master/src/assets/preview/github-snake-dark.svg" width="700"/>
 
-> **The Python Snake grows as this repo grows — every commit, every file, every improvement.**  
-> **Welcome to the evolving world of code.**
+> *A repository that grows… and so does the snake.*
 
 ---
 
-## 🔥 **PYTHON WORLD — ANIMATED INTRO**
+# 🐍 **EVOLVING SNAKE ANIMATION (BASED ON REPO GROWTH)**
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkyaW1zZ2Q0d2ZjaGFqdXppd2dxNHBpYm13NWxhYmJva2VzaHd2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gjrKDhp6N9JZXJpC4K/giphy.gif" width="550"/>
 
-**Every file you add = the snake gets longer.  
-Every concept you learn = the world expands.  
-Every script you write = another evolution unlocked.**
+> **The snake gets longer as your repo grows!**  
+> Add more Python files → your README snake gets bigger.
 
 ---
 
-</div>
+# ✨ **ABOUT PYTHON_WORLD**
+
+A unique Python universe filled with:
+
+- 🧠 Clean logic  
+- 🧪 Experiments  
+- 🔥 Mini projects  
+- 📘 Learning modules  
+- ⚙️ Practice scripts  
+- 🌱 Growing skill levels (just like the snake)
+
+This is NOT a boring repo.  
+It is a **living ecosystem** — each file adds growth.
 
 ---
 
-# 🚀 **What is PYTHON_WORLD?**
+# 🌍 **ANIMATED PYTHON WORLD MAP**
 
-PYTHON_WORLD is **not a normal repository**.  
-It is a **growing life-form**, powered by Python scripts.
-
-This repo evolves like a game:
-
-- 🟢 Start small  
-- 🟡 Learn more  
-- 🔵 Build better  
-- 🟣 Grow stronger  
-- 🔥 Unlock levels  
-
-The snake animation above **changes automatically as your repository grows**.  
-It becomes longer as you add more contributions, files, and commits.
 
 ---
 
-# 🗺️ **WORLD MAP (Repository Structure)**
+# 🚀 Getting Started
 
+```bash
+git clone https://github.com/unboxing745-ctrl/PYTHON_WORLD.git
+cd PYTHON_WORLD
+python3 file_name.py
