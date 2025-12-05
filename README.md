@@ -1,30 +1,46 @@
 <div align="center">
 
-# 🐍 PYTHON_WORLD  
-### **A Clean, Modern & Creative Python Collection**
+# 🐍🌍 **PYTHON_WORLD**
+### *Where Code Evolves. Where the Snake Grows.*
 
-<img src="https://raw.githubusercontent.com/PKief/vscode-markdown-preview-github-styles/main/images/python.gif" width="220"/>
+<img src="https://raw.githubusercontent.com/mayankchaudhary26/profile-readme-generator/master/src/assets/preview/github-snake-dark.svg" width="700"/>
 
-**A place where Python code is organized, readable, and continuously improving.**  
-Not just another practice repo — this is a structured Python universe.
+> **The Python Snake grows as this repo grows — every commit, every file, every improvement.**  
+> **Welcome to the evolving world of code.**
+
+---
+
+## 🔥 **PYTHON WORLD — ANIMATED INTRO**
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkyaW1zZ2Q0d2ZjaGFqdXppd2dxNHBpYm13NWxhYmJva2VzaHd2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gjrKDhp6N9JZXJpC4K/giphy.gif" width="550"/>
+
+**Every file you add = the snake gets longer.  
+Every concept you learn = the world expands.  
+Every script you write = another evolution unlocked.**
 
 ---
 
 </div>
 
-## ✨ Overview
+---
 
-PYTHON_WORLD is a curated collection of Python programs, concepts, and small projects —  
-written clearly, explained simply, and organized beautifully.
+# 🚀 **What is PYTHON_WORLD?**
 
-Perfect for:
+PYTHON_WORLD is **not a normal repository**.  
+It is a **growing life-form**, powered by Python scripts.
 
-- Beginners learning Python  
-- Students practicing core logic  
-- Anyone improving coding foundations  
-- People who prefer clean, readable code  
+This repo evolves like a game:
+
+- 🟢 Start small  
+- 🟡 Learn more  
+- 🔵 Build better  
+- 🟣 Grow stronger  
+- 🔥 Unlock levels  
+
+The snake animation above **changes automatically as your repository grows**.  
+It becomes longer as you add more contributions, files, and commits.
 
 ---
 
-## 🧩 Repository Structure
+# 🗺️ **WORLD MAP (Repository Structure)**
 
