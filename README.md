@@ -22,8 +22,7 @@
 
 # 🚀 **What’s Inside PYTHON_WORLD?**
 
-### 🔥 Beginner → Advanced Python Files  
-### 🧪 Experiments & Project Ideas  
+### 🔥 Beginner → Advanced Python Files   
 ### 🎯 Logic Building Programs  
 ### 📘 Learning Modules  
 ### 🤖 Automation Scripts  
@@ -43,11 +42,3 @@ Everything here levels up your Python journey.
 - 💡 Beginner-friendly  
 - 🔥 Growing daily
 
----
-
-# 📦 **Clone & Explore**
-
-```bash
-git clone https://github.com/unboxing745-ctrl/PYTHON_WORLD.git
-cd PYTHON_WORLD
-python3 file_name.py
