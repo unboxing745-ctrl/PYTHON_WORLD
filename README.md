@@ -1,43 +1,62 @@
 <div align="center">
 
 # 🐍✨ P Y T H O N  W O R L D ✨🐍  
-### **An evolving world of Python code**
+### **An Expanding Universe of Python Magic**
 
+> _Every Python file makes the snake grow. Every script evolves the world._
 
-> *A repository that grows… and so does the snake.*
+<br>
 
----
-
-# 🐍 **EVOLVING SNAKE ANIMATION (BASED ON REPO GROWTH)**
-
-
-> **The snake gets longer as your repo grows!**  
-> Add more Python files → your README snake gets bigger.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F700&center=true&vCenter=true&width=600&lines=Welcome+to+PYTHON+WORLD!;A+Universe+Built+With+Python;Watch+Your+Code+Come+Alive;Let+The+Snake+Grow!" />
 
 ---
 
-# ✨ **ABOUT PYTHON_WORLD**
+# 🐍 **EVOLVING PYTHON SNAKE**
+> _This snake becomes longer as your repo grows._
 
-A unique Python universe filled with:
-
-- 🧠 Clean logic  
-- 🧪 Experiments  
-- 🔥 Mini projects  
-- 📘 Learning modules  
-- ⚙️ Practice scripts  
-- 🌱 Growing skill levels (just like the snake)
-
-This is NOT a boring repo.  
-It is a **living ecosystem** — each file adds growth.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
-# 🌍 **ANIMATED PYTHON WORLD MAP**
+# 🌐 **PYTHON WORLD MAP**
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+
+> _Your Python scripts form continents in this animated world._
 
 ---
 
-# 🚀 Getting Started
+# 🚀 **What’s Inside PYTHON_WORLD?**
+
+### 🔥 Beginner → Advanced Python Files  
+### 🧪 Experiments & Project Ideas  
+### 🎯 Logic Building Programs  
+### 📘 Learning Modules  
+### 🤖 Automation Scripts  
+### 🎮 Fun Python Mini-Games  
+### 🌱 Daily Practice Snippets
+
+Everything here levels up your Python journey.
+
+---
+
+# 🌟 **Why This Repo Is SPECIAL**
+
+- 🐍 Animated Snake README  
+- 🌍 Python World GIF Map  
+- 🧠 Clean, simple & powerful programs  
+- 🏗️ Organized folder structure  
+- 🚀 Perfect for learning + practicing  
+- 💡 Beginner-friendly  
+- 🔥 Growing daily
+
+---
+
+# 📦 **Clone & Explore**
 
 ```bash
 git clone https://github.com/unboxing745-ctrl/PYTHON_WORLD.git
