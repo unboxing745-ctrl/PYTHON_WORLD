@@ -20,16 +20,6 @@
 
 ---
 
-# 🌐 **PYTHON WORLD MAP**
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-</p>
-
-> _Your Python scripts form continents in this animated world._
-
----
-
 # 🚀 **What’s Inside PYTHON_WORLD?**
 
 ### 🔥 Beginner → Advanced Python Files  
@@ -47,7 +37,6 @@ Everything here levels up your Python journey.
 # 🌟 **Why This Repo Is SPECIAL**
 
 - 🐍 Animated Snake README  
-- 🌍 Python World GIF Map  
 - 🧠 Clean, simple & powerful programs  
 - 🏗️ Organized folder structure  
 - 🚀 Perfect for learning + practicing  
