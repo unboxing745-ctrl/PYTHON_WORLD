@@ -3,7 +3,7 @@
 # 🐍✨ P Y T H O N  W O R L D ✨🐍  
 ### **An Expanding Universe of Python Magic**
 
-> _Every Python file makes the snake grow. Every script evolves the world._
+> _Every Python file makes the snake grow. Every script evolves the world.
 
 <br>
 
